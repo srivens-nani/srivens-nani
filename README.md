@@ -1,7 +1,7 @@
 - 👋 Hi, I’m venkatesh vasamsetti.
 - 👀 I’m interested in Automation, Cloud Computing and AI
 - 🌱 I’m currently learning Cloud Computing and AI
-- 💞️ I’m looking to collaborate on developing reusable and generic automations.
+- 💞️ I’m looking to collaborate with UiPath proffesionals on developing reusable and generic automations.
 - 📫 If you are reading this..You already know how to reach me.
 
 <!---
